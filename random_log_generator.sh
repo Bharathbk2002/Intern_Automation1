@@ -1,4 +1,4 @@
-log_dir="/Users/bharathkumarnr/Intern_Automation2/randomlog"
+log_dir="/Users/bharathkumarnr/Intern_Automation1/randomlog"
 mkdir -p "$randomlog"
 while true
 do

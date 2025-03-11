@@ -1,6 +1,6 @@
-source_dir=/Users/bharathkumarnr/Intern_Automation2/randomlog
-dest_dir=/Users/bharathkumarnr/Intern_Automation2/backuplog
-report_file=/Users/bharathkumarnr/Intern_Automation2/backuplog/backupreport.log
+source_dir=/Users/bharathkumarnr/Intern_Automation1/randomlog
+dest_dir=/Users/bharathkumarnr/Intern_Automation1/backuplog
+report_file=/Users/bharathkumarnr/Intern_Automation1/backuplog/backupreport.log
 
 time_stamp=$(date "+%y-%m-%d_%H-%M-%S")
 archive_name="backup_$time_stamp.tar.gz"
